@@ -1,0 +1,9 @@
+langchain
+sentence-transformers
+pdfplumber
+scikit-learn
+fastapi
+uvicorn
+python-multipart
+transformers
+torch
